@@ -2,6 +2,7 @@
   "name": "npm-gate",
   "description": "Gated commit using git+npm",
   "main": "index.js",
+  "version": "1.0.0",
   "bin": {
     "npm-gate": "index.js"
   },
