@@ -1,4 +1,4 @@
-# npm-gate [![Build Status](https://travis-ci.org/invantage/npm-gate.svg?branch=master)](https://travis-ci.org/okonet/lint-staged) [![npm version](https://badge.fury.io/js/lint-staged.svg)](https://badge.fury.io/js/lint-staged)
+# npm-gate [![Build Status](https://travis-ci.org/invantage/npm-gate.svg?branch=master)](https://travis-ci.org/invantage/npm-gate) [![npm version](https://badge.fury.io/js/npm-gate.svg)](https://badge.fury.io/js/npm-gate)
 
 A hard fork of lint-staged to support complex pre-commit commands both per staged file and as a set
 
